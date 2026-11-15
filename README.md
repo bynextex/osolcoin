@@ -1,23 +1,13 @@
-# osolcoin 🪙
+# osolcoin
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-A cryptocurrency token project exploring blockchain fundamentals and tokenomics.
+Experimental cryptocurrency token project exploring blockchain fundamentals, token supply mechanics, and decentralized finance primitives.
 
----
+## Overview
 
-## 📋 Overview
+A sandbox repository for testing smart contract token standards, emission curves, and on-chain transfer logic.
 
-Osolcoin is a learning-oriented blockchain project focused on understanding token creation, distribution mechanics, and decentralized finance concepts.
+## License
 
-## 🚀 Getting Started
-
-> **Note:** This project is under development. More documentation will be added soon.
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-Built by [@bynextex](https://github.com/bynextex)
+MIT License. See [LICENSE](LICENSE) for details.
